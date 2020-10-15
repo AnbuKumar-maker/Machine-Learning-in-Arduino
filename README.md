@@ -1,0 +1,2 @@
+# Machine-Learning-in-Arduino
+One of the exciting aspects of running machine learning models on embedded hardware is the ability to use low power devices with greater contextual awareness to trigger high energy devices only when it is valuable to do so.As a proof-of-concept, we want to use the low-power Arduino Nano 33 BLE Sense and an ArduCam Mini 2MP, along with the TensorFlow Lite library, to trigger a relay to turn on/off when a person is recognized.
